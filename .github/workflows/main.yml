@@ -13,7 +13,7 @@ jobs:
     - name: Generate HTML from Markdown
       uses: ldeluigi/markdown-docs@latest
       with:
-        src: /documentation
-        dst: /generated
+        src: doc
+        dst: generated
         title: Social Drone UA
         language: uk
