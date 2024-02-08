@@ -1,0 +1,5 @@
+- name: Generate HTML from Markdown
+    uses: ldeluigi/markdown-docs@latest
+    with:
+        src: documentation
+        dst: generated
