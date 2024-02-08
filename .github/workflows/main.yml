@@ -3,3 +3,5 @@
     with:
         src: documentation
         dst: generated
+        title: Social Drone UA
+        language: uk
